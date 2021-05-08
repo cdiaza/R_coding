@@ -1,0 +1,44 @@
+Virus	Atacama Desert	AtacamaDesert	GuaymasBasin	Peru_1	GuymasBasin	H-vent	H-vent	H-vent	H-vent	H-vent	H-vent
+Escherichia virus 121Q	0	0	0	0	1	0	0	0	0	0	0
+Peduovirus	0	0	0	0	0	0	0	0	0	0	1
+Vibrio phage VH7D	0	0	0	0	1	0	0	0	0	0	0
+Acinetobacter phage Acj61	0	0	0	0	1	0	0	0	0	0	0
+Cyanophage P-RSM1	0	0	0	0	2	0	0	0	0	0	0
+Pelagibacter phage HTVC008M	0	0	0	0	1	5	3	0	0	1	0
+Prochlorococcus phage P-HM2	0	0	5	0	1	2	0	0	0	0	0
+Prochlorococcus phage P-RSM4	0	0	5	0	1	5	0	0	0	0	0
+Prochlorococcus phage P-SSM2	0	0	0	0	1	2	0	0	0	0	0
+Prochlorococcus phage P-SSM3	0	0	0	0	1	0	0	0	0	0	0
+Prochlorococcus phage P-SSM4	0	0	0	0	1	0	0	0	0	0	0
+Prochlorococcus phage P-SSM7	0	0	0	0	1	0	0	0	0	0	0
+Shigella phage SfII	0	0	0	0	0	0	0	0	0	0	1
+Shigella phage SfIV	0	0	0	0	0	0	0	0	0	0	1
+Synechococcus phage ACG-2014d	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage ACG-2014g	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage metaG-MbCM1	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage S-IOM18	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage S-MbCM100	0	0	0	0	1	2	0	0	0	0	0
+Synechococcus phage S-RIM8 A.HR1	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage S-ShM2	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage S-SKS1	0	0	0	0	1	0	0	0	0	0	0
+Synechococcus phage S-SM1	0	0	5	0	1	0	0	0	0	0	0
+Synechococcus phage S-SSM7	0	0	0	0	1	0	0	0	0	0	0
+Pelagibacter phage HTVC019P	0	0	0	0	0	2	0	0	0	0	0
+Podovirus Lau218	0	0	0	0	0	0	0	0	0	1	0
+Pseudomonas virus F116	0	0	0	0	0	0	0	1	0	0	0
+Enterobacter phage Enc34	0	0	5	0	0	0	0	0	0	0	0
+Escherichia virus HK630	0	0	0	0	0	0	0	0	0	0	1
+Enterobacteria phage YYZ-2008	0	0	0	0	0	0	0	0	0	0	2
+Pseudomonas phage F10	0	0	0	0	0	2	0	0	0	0	0
+Stx2-converting phage 1717	0	0	0	0	0	0	0	0	0	0	1
+Roseobacter virus RDJL1	0	0	0	2	0	0	0	0	0	0	0
+Herpesviridae	0	0	0	0	0	0	0	1	0	0	0
+Inoviridae	0	0	0	0	0	0	0	1	0	0	0
+Marine gokushovirus	0	0	0	0	0	0	0	1	0	0	0
+Ectocarpus siliculosus virus 1	0	0	0	2	0	0	0	0	0	0	0
+Aureococcus anophagefferens virus	0	0	0	0	1	0	0	0	0	1	0
+Haloarcula virus His2	3	0	0	0	0	0	0	0	0	0	0
+Halovirus HCTV-2	7	0	0	0	0	0	0	0	0	0	0
+Halovirus HHTV-1	0	27	0	0	0	0	0	0	0	0	0
+Halovirus HHTV-2	17	0	0	0	0	0	0	0	0	0	0
+unclassified dsDNA viruses	0	0	0	0	0	0	0	1	1	0	0
